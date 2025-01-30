@@ -1,0 +1,12 @@
+1️⃣ Creazione e accesso agli elementi
+Crea una lista con 5 numeri interi e stampa il terzo elemento.
+
+2️⃣ Aggiunta e rimozione di elementi
+Aggiungi il numero 60 alla lista precedente.
+Rimuovi il secondo elemento della lista.
+
+3️⃣ Slicing delle liste
+Dalla lista [1, 2, 3, 4, 5, 6, 7, 8], crea una nuova lista contenente solo gli elementi pari.
+
+4️⃣ Concatenazione di liste
+Combina due liste: numeri1 = [1, 2, 3] e numeri2 = [4, 5, 6] in una sola lista.
