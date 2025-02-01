@@ -1,0 +1,11 @@
+5️⃣ Lista inversa
+Data una lista, crea una nuova lista con gli elementi in ordine inverso.
+
+6️⃣ Somma degli elementi
+Scrivi una funzione che calcoli la somma di tutti gli elementi di una lista.
+
+7️⃣ Eliminare duplicati
+Data una lista con elementi ripetuti, rimuovi i duplicati.
+
+8️⃣ Lista di numeri e indici pari
+Dalla lista [10, 20, 30, 40, 50, 60], stampa solo gli elementi in posizioni pari.
